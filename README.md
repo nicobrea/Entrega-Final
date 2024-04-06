@@ -1,5 +1,7 @@
 NOMBRE DEL PROYECTO: La Chica del Sueño
 
+RESUMEN: Según estudios, el 75% de los argentinos experimenta trastornos del sueño. Se busca crear una comunidad virtual para ofrecer productos alimenticios que mejoren el descanso."La Chica del Sueño" será una comunidad que integre a usuarios y profesionales médicos. Se empleará inteligencia artificial (IA) para generar contenido y publicaciones en redes sociales, adaptándose a diferentes temas y tags. El objetivo es generar contenido atractivo para la comunidad sin necesidad de contratar personal adicional.
+
 EL PROBLEMA: Un 75% de los argentinos presenta alguna alteración del sueño según los estudios de la Universidad de Favaloro y el Observatorio de Psicología Social de la Facultad de Psicología de la Universidad de Buenos Aires.
 Para poder desarrollar una gama de productos alimenticios orientados a mejorar la calidad del descanso de los consumidores, se necesita crear una comunidad virtual a partir de un perfil de RRSS que comparta recomendaciones y contenido curado sobre la importancia de la calidad del descanso. 
 Así como el perfil @lachicadelbrunch ha generado una revolución de como los usuarios eligen donde comer, el objetivo de La Chica del Sueño es poder cambiar el paradigma de como los usuarios eligen mejorar la calidad de su descanso, ya sea para mejorar su productividad o aumentar su bienestar general.
